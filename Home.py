@@ -11,6 +11,7 @@ st.set_page_config(
     }
 )
 st.sidebar.title("Eco :green[Track]")
+st.sidebar.button("Calculator","https://")
 st.title("Eco:green[Track]")
 st.text("The carbon footprint calculator")
 st.subheader("About Carbon Footprint")
