@@ -10,7 +10,7 @@ st.set_page_config(
         'About':"EcoTrack ",
     }
 )
-st.sidebar.title("Eco :green[Track]")
+
 st.title("Eco:green[Track]")
 st.text("The carbon footprint calculator")
 st.subheader("About Carbon Footprint")
